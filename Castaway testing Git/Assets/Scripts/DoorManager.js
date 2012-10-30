@@ -1,4 +1,5 @@
 #pragma strict
+// Some code by Matt Evett
 
 private var doorIsOpen : boolean = false;
 private var doorTimer : float = 0.0;
